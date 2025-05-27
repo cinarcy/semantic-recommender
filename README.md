@@ -125,3 +125,5 @@ Try these in the UI or via API:
 ## 🖼️ Screenshots
 
 ![Chat Response](assets/screenshot.png)
+
+[![Follow on GitHub](https://img.shields.io/github/followers/reinelt88?label=Follow&style=social)](https://github.com/reinelt88)
